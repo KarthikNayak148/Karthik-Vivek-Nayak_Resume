@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.19 (MiKTeX 2.9.6630 64-bit) (preloaded format=pdflatex 2018.4.16)  18 APR 2018 23:24
+This is pdfTeX, Version 3.14159265-2.6-1.40.19 (MiKTeX 2.9.6630 64-bit) (preloaded format=pdflatex 2018.4.16)  18 APR 2018 23:48
 entering extended mode
 **./Karthik-Vivek-Nayak_Resume.tex
 (Karthik-Vivek-Nayak_Resume.tex
@@ -205,22 +205,22 @@ Package: geometry 2010/09/12 v5.6 Page Geometry
 (Karthik-Vivek-Nayak_Resume.aux)
 \openout1 = `Karthik-Vivek-Nayak_Resume.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 34.
-LaTeX Font Info:    ... okay on input line 34.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 34.
-LaTeX Font Info:    ... okay on input line 34.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 34.
-LaTeX Font Info:    ... okay on input line 34.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 34.
-LaTeX Font Info:    ... okay on input line 34.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 34.
-LaTeX Font Info:    ... okay on input line 34.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 34.
-LaTeX Font Info:    ... okay on input line 34.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 34.
-LaTeX Font Info:    ... okay on input line 34.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 29.
+LaTeX Font Info:    ... okay on input line 29.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 29.
+LaTeX Font Info:    ... okay on input line 29.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 29.
+LaTeX Font Info:    ... okay on input line 29.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 29.
+LaTeX Font Info:    ... okay on input line 29.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 29.
+LaTeX Font Info:    ... okay on input line 29.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 29.
+LaTeX Font Info:    ... okay on input line 29.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 29.
+LaTeX Font Info:    ... okay on input line 29.
 \AtBeginShipoutBox=\box28
-Package hyperref Info: Link coloring OFF on input line 34.
+Package hyperref Info: Link coloring OFF on input line 29.
 
 ("C:\Program Files\MiKTeX 2.9\tex\latex\hyperref\nameref.sty"
 Package: nameref 2016/05/21 v2.44 Cross-referencing by name of section
@@ -230,9 +230,9 @@ Package: gettitlestring 2016/05/16 v1.5 Cleanup title references (HO)
 )
 \c@section@level=\count101
 )
-LaTeX Info: Redefining \ref on input line 34.
-LaTeX Info: Redefining \pageref on input line 34.
-LaTeX Info: Redefining \nameref on input line 34.
+LaTeX Info: Redefining \ref on input line 29.
+LaTeX Info: Redefining \pageref on input line 29.
+LaTeX Info: Redefining \nameref on input line 29.
 
 (Karthik-Vivek-Nayak_Resume.out) (Karthik-Vivek-Nayak_Resume.out)
 \@outlinefile=\write3
@@ -301,56 +301,56 @@ G,.JBIG2,.JB2,.eps]
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 38--43
+Underfull \hbox (badness 10000) in paragraph at lines 33--38
 
  []
 
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <7> on input line 46.
+(Font)              <7> on input line 41.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <5> on input line 46.
+(Font)              <5> on input line 41.
 
-Overfull \hbox (1.62752pt too wide) in paragraph at lines 50--50
+Overfull \hbox (1.62752pt too wide) in paragraph at lines 45--45
 []\OT1/cmr/m/n/10 8277557477  
  []
 
 
-Overfull \hbox (75.5444pt too wide) in paragraph at lines 51--51
+Overfull \hbox (75.5444pt too wide) in paragraph at lines 46--46
 [][]\OT1/cmr/m/n/10 karthiknayak148@gmail.com[]  
  []
 
 <kartik.jpg, id=4, 132.495pt x 170.6375pt>
 File: kartik.jpg Graphic file (type jpg)
 <use kartik.jpg>
-Package pdftex.def Info: kartik.jpg  used on input line 53.
+Package pdftex.def Info: kartik.jpg  used on input line 48.
 (pdftex.def)             Requested size: 85.35854pt x 113.81358pt.
 
-Overfull \hbox (36.9859pt too wide) in paragraph at lines 53--54
+Overfull \hbox (36.9859pt too wide) in paragraph at lines 48--49
 [][]  
  []
 
 
-Underfull \hbox (badness 1533) in paragraph at lines 62--62
+Underfull \hbox (badness 1533) in paragraph at lines 57--57
 []\OT1/cmr/m/n/10 KLS Gogte In-sti-tute of
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 62--62
+Underfull \hbox (badness 10000) in paragraph at lines 57--57
 []\OT1/cmr/m/n/10 Autonomous In-sti-tute un-der
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 62--62
+Underfull \hbox (badness 10000) in paragraph at lines 57--57
 \OT1/cmr/m/n/10 Visves-varaya Tech-no-log-i-cal
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 62--63
+Underfull \hbox (badness 10000) in paragraph at lines 57--58
 []\OT1/cmr/m/n/10 9.14 CGPA
  []
 
 
-Underfull \hbox (badness 4479) in paragraph at lines 64--64
+Underfull \hbox (badness 4479) in paragraph at lines 59--59
 []\OT1/cmr/m/n/10 Department of Pre-University
  []
 
@@ -358,34 +358,34 @@ Underfull \hbox (badness 4479) in paragraph at lines 64--64
 
 {C:/Users/karthik nayak/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map} <./k
 artik.jpg>]
-LaTeX Font Info:    Try loading font information for OMS+cmr on input line 108.
+LaTeX Font Info:    Try loading font information for OMS+cmr on input line 109.
 
  ("C:\Program Files\MiKTeX 2.9\tex\latex\base\omscmr.fd"
 File: omscmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
 )
 LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <10> not available
-(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 108.
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 109.
  [2]
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 142.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 145.
 
 [3]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 142.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 145.
  (Karthik-Vivek-Nayak_Resume.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 142.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 142.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 145.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 145.
 Package rerunfilecheck Info: File `Karthik-Vivek-Nayak_Resume.out' has not chan
 ged.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 142.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 145.
  ) 
 Here is how much of TeX's memory you used:
  5851 strings out of 493305
  86672 string characters out of 3138848
- 179589 words of memory out of 3000000
+ 179587 words of memory out of 3000000
  9357 multiletter control sequences out of 15000+200000
  4900 words of font info for 18 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
- 28i,8n,33p,271b,445s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 28i,8n,33p,273b,445s stack positions out of 5000i,500n,10000p,200000b,50000s
 <C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbx10.pfb><C:/Pr
 ogram Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Program Fi
 les/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Program Files/MiKTe

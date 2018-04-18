@@ -1,6 +1,5 @@
 \documentclass[10pt]{article}
 
-%\usepackage[a4paper, total={6in, 8in}]{geometry}
 \usepackage{hyperref}
 \usepackage{graphicx}
 \usepackage{wrapfig}
@@ -114,6 +113,33 @@ course offered by NPTEL.
 \item \textbf{1st Prize}: e-Yantra Robotics Competition 2017-18 in the theme Harvester Bot.
 \item \textbf{Topper} (top 5\% of certified candidates): \href{http://nptel.ac.in/noc/E_Certificate/noc17-cs21/NPTEL17CS21S1150001171010224.jpg}{\textit{Hardware Modeling Using Verilog}}, a course offered by NPTEL.
 \end{enumerate}
+
+\section*{personal details}
+\begin{enumerate}
+\item \textbf{Father\'s Name}: Vivek Nayak
+\item \textbf{Mother\'s Name}: Shanti V. Nayak
+\item \textbf{Sex}: Male
+\item \textbf{Date of Birth}: 17 June 1997
+\item \textbf{Nationality}: Indian
+\item \textbf{Marital Status}: Unmarried
+\end{enumerate}
+
+\section*{reference}
+\begin{enumerate}
+\item \textbf{Dr. Prashant Patavardhan}, 
+Head of Department, Electronics and Communication Engineering, 
+KLS Gogte Institute of Technology, 
+email: pppatavardhan@git.edu $|$ cell: 9448941840
+\item\textbf{Mrs. Supriya S. Shanbhag}, Assistant Professor,  Electronics and Communication Engineering, 
+KLS Gogte Institute of Technology, 
+email: ssshanbhag@git.edu $|$ cell: 9845306767
+\end{enumerate}
+\section*{declaration}
+I hereby declare that all details furnished are true to the best of my knowledge.
+\section*{date}
+17 April 2018
+\end{document}
+
 
 
 \end{document}

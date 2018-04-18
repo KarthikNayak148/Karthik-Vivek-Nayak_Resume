@@ -80,6 +80,40 @@ A fully autonomous robot that can reach its destination even on introduction of 
 course offered by NPTEL.
 \item[$\bullet$]Course on Python Programming.
 \end{itemize}
+\section*{research publications}
+\begin{enumerate}
+\item none
+\end{enumerate}
+\section*{technical skills}
+\begin{itemize}
+\item[$\bullet$]\textbf{Programming Languages }
+\begin{itemize}
+\item[$\cdot$]\textbf{Proficient:} C, Verilog HDL, Embedded C.
+\item[$\cdot$]\textbf{Intermediate:} Assembly language, Python, C++.
+\item[$\cdot$]Currently learning to code in python, effectively.
+\end{itemize}
+\item[$\bullet$]\textbf{Hardware Knowledge}: NXP LPC2148, ATmega2560, Raspberry pi.
+\item[$\bullet$]\textbf{Software Knowledge}: Familiar with Xilinx ISE, Vivado, Keil uvision, Cadence Virtuoso, Matlab, Scilab, Simulink.
+\end{itemize}
+\section*{soft skills}
+\begin{enumerate}
+\item \textbf{Languages}: English, Konkani, Hindi, Marathi, Kannada.
+\item \textbf{Analysis}: Good at analysing situation(s) and ability to take appropriate decisions.
+\item\textbf{Teamwork}: Responsible, dedicated, dynamic, friendly and capable.
+\item\textbf{Leadership}: Capable of leading the team effectively. 
+\item Have sound work ethic and a philozoic by nature.
+\end{enumerate}
+\section*{extra-curricular activities}
+\begin{itemize}
+\item Member of Lead Cell GIT, a social and innovation club.
+\item Regularly involved in creating awareness regarding the need to follow traffic rules in the city.
+\end{itemize}
+
+\section*{co-curricular activities}
+\begin{enumerate}
+\item \textbf{1st Prize}: e-Yantra Robotics Competition 2017-18 in the theme Harvester Bot.
+\item \textbf{Topper} (top 5\% of certified candidates): \href{http://nptel.ac.in/noc/E_Certificate/noc17-cs21/NPTEL17CS21S1150001171010224.jpg}{\textit{Hardware Modeling Using Verilog}}, a course offered by NPTEL.
+\end{enumerate}
 
 
 \end{document}

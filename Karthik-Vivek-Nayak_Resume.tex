@@ -1,0 +1,54 @@
+\documentclass[10pt]{article}
+
+%\usepackage[a4paper, total={6in, 8in}]{geometry}
+\usepackage{hyperref}
+\usepackage{graphicx}
+\usepackage{wrapfig}
+\usepackage{titlesec}
+\usepackage{titling}
+\usepackage{geometry}
+ \geometry{
+ a4paper,
+ total={170mm,257mm},
+ left=20mm,
+ top=1in,
+ }
+\titleformat{\section}
+{\huge\bfseries}
+{}
+{}
+{}[\titlerule]
+
+
+\renewcommand{\maketitle}{
+\begin{center}
+\huge\bfseries
+Karthik Vivek Nayak
+
+\hrule
+
+\end{center}
+\vspace{0.1cm}
+}
+
+\begin{document}
+\title{Karthik Vivek Nayak}
+\maketitle
+\begin{minipage}{0.8\linewidth}
+\textbf{Address:\\}
+3141/C\\
+Khade Bazar\\
+Belgaum- 590001 \\
+Karnataka, India\\ 
+\end{minipage}
+\begin{minipage}{0.1\linewidth}
+\begin{flushright}
+\flushleft{\textbf{Contact:}}\\
+8277557477\\
+\href{mailto:karthiknayak148@gmail.com}{karthiknayak148@gmail.com}\\
+\vspace{1cm}
+\includegraphics[width=3cm,height=4cm]{kartik.jpg}
+\end{flushright}
+\end{minipage}
+
+\end{document}

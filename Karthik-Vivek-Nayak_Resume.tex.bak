@@ -53,4 +53,27 @@ An Electronics and Communication pre final-year undergraduate student seeking \\
 \includegraphics[width=3cm,height=4cm]{kartik.jpg}
 \end{flushright}
 \end{minipage}
+
+\section*{education}
+\begin{tabular}{|l|p{40mm}|p{50mm}|l|p{20mm}|}
+\hline
+Degree & College/School & University/Board & Passing Year & Score\\
+\hline
+B.E.(ECE)&KLS Gogte Institute of Technology, Belgaum&Autonomous Institute under Visvesvaraya Technological University&2019&9.14 CGPA (Sem 1-5)\\
+\hline
+12th &Expert PU College, Kodialbail, Mangalore&Department of Pre-University Education, Government of Karnataka&2015&96.67\%\\
+\hline
+10th &Kendriya Vidyalaya NO.2 Cantonment Belgaum&Central Board of Secondary Education (CBSE)&2013&93.1\%\\
+\hline
+\end{tabular}
+\section*{projects}
+\begin{enumerate}
+\item\textbf{Harvester Bot- Eyantra Robotics Competition 2017-18}\\
+A fully autonomous robot that harvests fruits in an abstract farm.
+\item\textbf{Real Time Obstacle Evading bot}\\
+A fully autonomous robot that can reach its destination even on introduction of obstacles in its path, by taking another best alternate path.
+\item Mini Project: Traffic signal management using LPC2148.
+\end{enumerate}
+
+
 \end{document}

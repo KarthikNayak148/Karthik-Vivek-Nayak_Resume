@@ -40,6 +40,9 @@ Karthik Vivek Nayak
 Khade Bazar\\
 Belgaum- 590001 \\
 Karnataka, India\\ 
+\section*{objective}
+An Electronics and Communication pre final-year undergraduate student seeking \\ internship and training opportunities in embedded systems domain, to hone my skills\\ with a vision to develop system(s) that would enhance life on earth.
+\vspace{1cm}
 \end{minipage}
 \begin{minipage}{0.1\linewidth}
 \begin{flushright}
@@ -50,5 +53,4 @@ Karnataka, India\\
 \includegraphics[width=3cm,height=4cm]{kartik.jpg}
 \end{flushright}
 \end{minipage}
-
 \end{document}

@@ -1,2 +1,5 @@
 Say Hello!
 	Hello!
+
+Say hi!
+	hi!
